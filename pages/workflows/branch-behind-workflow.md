@@ -18,6 +18,8 @@ you are currently working is an old version of `preview`, you need to update you
 
 5. Run `git rebase preview` to rebase with preview and update your working branch.
 
+6. Run `git push -f origin feature/your-branch` to push your changes.
+
 # Changes
 
 # Preview
