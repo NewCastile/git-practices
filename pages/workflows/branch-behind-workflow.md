@@ -23,3 +23,5 @@ you are currently working is an old version of `preview`, you need to update you
 # Preview
 
 Change before rebasing with `preview`.
+
+Change after rebasing with `preview`.
