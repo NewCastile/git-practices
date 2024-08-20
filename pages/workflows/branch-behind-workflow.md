@@ -17,3 +17,9 @@ you are currently working is an old version of `preview`, you need to update you
 4. Run `git checkout feature/your-branch` to switch back to your working branch.
 
 5. Run `git rebase preview` to rebase with preview and update your working branch.
+
+# Changes
+
+# Preview
+
+Change before rebasing with `preview`.
