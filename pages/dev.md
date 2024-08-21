@@ -1,6 +1,6 @@
-# Preview
+# Development
 
-This page is under the `preview` environment
+This page is under the `development` environment
 
 # Changes
 
